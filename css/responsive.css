@@ -1,0 +1,49 @@
+/* ===== for mobile ===== */
+@media (min-width: 320px) and (max-width: 575px){
+  .container h1{
+    font-size: 100px;
+    width: 95%;
+    height: 120px;    
+  }
+  .container h2{
+    font-size: 60px;
+  }
+  .container h3{
+    font-size: 36px;
+  }
+  .container h4{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+}
+/* ===== for medium device ===== */
+@media (min-width: 576px) and (max-width: 767px){
+  .container h1{
+    font-size: 150px;
+    height: 200px !important;
+    width: 95%;
+    height: 120px;    
+  }
+  .container h2{
+    font-size: 60px;
+  }
+  .container h3{
+    font-size: 36px;
+  }
+  .container h4{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px){
+  
+}
+@media (min-width: 992px) and (max-width: 1199px){
+  
+}
+@media (min-width: 1200px) and (max-width: 1399px){
+  
+}
+@media (min-width: 1400px){
+  
+}
